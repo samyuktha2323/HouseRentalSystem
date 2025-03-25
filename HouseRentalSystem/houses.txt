@@ -1,0 +1,2 @@
+A1,Coimbatore,400000.00,5,sree,true
+A2,Mumbai,500000.00,6,sahana,true
