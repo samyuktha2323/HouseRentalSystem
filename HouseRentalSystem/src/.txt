@@ -1,0 +1,151 @@
+House Rental Management System
+1. Manage Houses
+2. Manage Tenants
+3. Manage Rentals
+4. Exit
+Choose an option: 1
+
+House Management
+1. Add House
+2. Search Houses
+3. List All Houses
+4. Back to Main Menu
+Choose an option: 1
+
+Add New House
+Enter House ID: A1
+Enter Location: Coimbatore
+Enter Price: 400000
+Enter Number of Bedrooms: 5
+Enter Owner Name: sree
+House added successfully!
+
+House Management
+1. Add House
+2. Search Houses
+3. List All Houses
+4. Back to Main Menu
+Choose an option: 1
+
+Add New House
+Enter House ID: A2
+Enter Location: Mumbai
+Enter Price: 500000
+Enter Number of Bedrooms: 6
+Enter Owner Name: sahana
+House added successfully!
+
+House Management
+1. Add House
+2. Search Houses
+3. List All Houses
+4. Back to Main Menu
+Choose an option: 2
+
+Search Houses
+Enter Location (leave empty for any): Mumbai
+Enter Maximum Price: 600000
+Found 1 house(s):
+[A2, Mumbai, 500000.00, 6, sahana, Available]
+
+House Management
+1. Add House
+2. Search Houses
+3. List All Houses
+4. Back to Main Menu
+Choose an option: 3
+All Houses:
+[A1, Coimbatore, 400000.00, 5, sree, Available]
+[A2, Mumbai, 500000.00, 6, sahana, Available]
+
+House Management
+1. Add House
+2. Search Houses
+3. List All Houses
+4. Back to Main Menu
+Choose an option: 4
+
+House Rental Management System
+1. Manage Houses
+2. Manage Tenants
+3. Manage Rentals
+4. Exit
+Choose an option: 2
+
+Tenant Management
+1. Register Tenant
+2. List All Tenants
+3. Back to Main Menu
+Choose an option: 1
+
+Register New Tenant
+Enter Tenant ID: 100
+Enter Name: rithika
+Enter Contact: 123456789
+Enter Preferred Location: Coimbatore
+Tenant registered successfully!
+
+Tenant Management
+1. Register Tenant
+2. List All Tenants
+3. Back to Main Menu
+Choose an option: 1
+
+Register New Tenant
+Enter Tenant ID: 101
+Enter Name: Sahana
+Enter Contact: 156789056
+Enter Preferred Location: Mumbai
+Tenant registered successfully!
+
+Tenant Management
+1. Register Tenant
+2. List All Tenants
+3. Back to Main Menu
+Choose an option: 2
+All Tenants:
+[100, rithika, 123456789, Coimbatore]
+[101, Sahana, 156789056, Mumbai]
+
+Tenant Management
+1. Register Tenant
+2. List All Tenants
+3. Back to Main Menu
+Choose an option: 3
+
+House Rental Management System
+1. Manage Houses
+2. Manage Tenants
+3. Manage Rentals
+4. Exit
+Choose an option: 3
+
+Rental Management
+1. Book a House
+2. View All Rental Agreements
+3. Back to Main Menu
+Choose an option: 1
+
+Book a House
+All Houses:
+[A1, Coimbatore, 400000.00, 5, sree, Available]
+[A2, Mumbai, 500000.00, 6, sahana, Available]
+Enter House ID to book: A1
+All Tenants:
+[100, rithika, 123456789, Coimbatore]
+[101, Sahana, 156789056, Mumbai]
+Enter Tenant ID: 2
+Enter Start Date (YYYY-MM-DD): 12-07-2024
+Invalid date format. Please use YYYY-MM-DD format.
+
+Rental Management
+2. View All Rental Agreements
+3. Back to Main Menu
+Choose an option: 3
+
+House Rental Management System
+1. Manage Houses
+2. Manage Tenants
+3. Manage Rentals
+4. Exit
+Choose an option: 4
